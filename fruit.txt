@@ -4,5 +4,6 @@ alma
 korte
 banan
 licsi
+dinnye
 
 
