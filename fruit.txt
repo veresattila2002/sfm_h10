@@ -2,6 +2,7 @@
 alma
 
 korte
-
+banan
 licsi
+
 
